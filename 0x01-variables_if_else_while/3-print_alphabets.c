@@ -13,5 +13,6 @@ for (i = 0; i < 52; i++)
 putchar(alp[i]);
 }
 putchar('\n');
+putchar('\n');
 return (0);
 }
