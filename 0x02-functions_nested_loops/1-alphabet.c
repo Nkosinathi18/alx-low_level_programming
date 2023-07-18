@@ -1,4 +1,4 @@
-#inclu "main.h"
+#include "main.h"
 /**
  * print_alphabet - prints all alphabets in lowercase
  */
