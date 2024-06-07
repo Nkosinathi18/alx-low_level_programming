@@ -2,8 +2,8 @@
 
 /**
  * main - does the magic
- * Return: Always o.
- */
+ * Return: 0.
+*/
 
 int main(void)
 {
